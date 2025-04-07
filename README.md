@@ -18,3 +18,6 @@ This is a FastAPI + React-based web service that allows users to compare the vis
 
 ## PS everything above just was a plan...
 
+
+Developed by @MTimchenko
+Need help? Feel free to open an issue or message me.
